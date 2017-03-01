@@ -12,7 +12,7 @@
                         </ul>
                     </li>-->
                      <li><a href="register.php">Register</a></li>
-                     <li><a href="searchByCategory.php">Search</a></li>
+                     <li><a href="SearchByCategory.php">Search</a></li>
                      <li><a href="aboutus.php">About Us</a></li>
 
                      <?php
