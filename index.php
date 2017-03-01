@@ -25,9 +25,9 @@ session_start();
                        <!-- slider start-->
                        <div class="slider-wrapper theme-default">
                           <div id="slider" class="nivoSlider"> 
-                            <img src="Images/BACKGROUND/re22.jpg"  alt="TheWatchGallery" data-transition="slideInLeft"/> 
-                            <img src="Images/BACKGROUND/re22.jpg" alt="TheWatchGallery"  data-transition="slideInLeft" />
-                            <img src="Images/BACKGROUND/re22.jpg"  alt="TheWatchGallery" data-transition="slideInLeft" />
+                            <img src="images/BACKGROUND/re22.jpg"  alt="TheWatchGallery" data-transition="slideInLeft"/> 
+                            <img src="images/BACKGROUND/re22.jpg" alt="TheWatchGallery"  data-transition="slideInLeft" />
+                            <img src="images/BACKGROUND/re22.jpg"  alt="TheWatchGallery" data-transition="slideInLeft" />
                           </div>
                         </div>
                       <!-- slider end-->
