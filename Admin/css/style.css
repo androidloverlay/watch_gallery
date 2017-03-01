@@ -1,0 +1,80 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #efefef !important;
+	font-family: arial;
+	font-size:14px;
+}
+button, input, select, textarea {
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+header img{
+	width:auto;
+	height:163px;
+}
+.wapper{
+	width:100%;
+	float:left;
+}
+.home-menu{
+	background-color: black;
+}
+.home-menu ul a{
+	color:red;
+	font-size:12px;
+}
+.home-menu .nav{
+	width:645px;
+	margin:0 auto;
+	display: block;
+	float:none;
+
+}
+.slider{
+	width:600px;
+	margin:20px auto;
+}
+.btn-click{
+	float:left;
+	background-color:#000;
+	color:#fff;
+	border:none;
+	border-radius:5px;
+	padding: 4px 9px;
+	font-size: 13px;
+	margin: 30px 10px;
+}
+.update{
+	background:#001984;
+	color:#fff;
+}
+.delete{
+	background:#840000;
+	color:#fff;
+}
+.btn-box{
+	margin:0 auto;
+	width:150px;
+}
+table.register{
+	margin:20px auto;
+}
+table.register td{
+	padding:13px;
+	color:#000;
+	
+}
+footer{
+	float:left;
+	background-color:#000;
+	width:100%;
+	text-align: center;
+	padding:15px;
+	margin-top:40px;
+	color:#fff;
+}
+.manage-img{
+	width:150px;
+}
